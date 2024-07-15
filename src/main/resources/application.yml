@@ -7,4 +7,4 @@ cloud:
       access-key: ${AWS_ACCESS_KEY}
       secret-key: ${AWS_SECRET_ACCESS_KEY}
     end-point:
-      uri: ${AWS_ENDPOINT}
+      uri: ${AWS_ENDPOINT_STATUS_PEDIDO}
